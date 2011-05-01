@@ -1,6 +1,5 @@
 src/selector.js
 dist
-.settings
 *~
 *.diff
 *.patch
